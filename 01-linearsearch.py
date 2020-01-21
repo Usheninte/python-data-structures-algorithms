@@ -17,7 +17,7 @@ def linear_search(list_data, key):
     return flag
 
 
-# data to for the algorithm
+# data for the algorithm
 list_data = [44, 26, 892, 34, 21, 90, 0, 59]
 # application of the algorithm,
 # where the second argument passed is the `key`
